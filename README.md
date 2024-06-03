@@ -11,6 +11,7 @@ Here i am going to share the explanations of topics which help me to learn DSA e
 - Searching
 - Sorting
 - Recurrsion
+- HashMaps
 
 ###### Want to contact 
 - You can mail me to : `shubham272101@gmail.com`
